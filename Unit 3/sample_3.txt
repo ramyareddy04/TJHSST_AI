@@ -1,0 +1,68 @@
+>TicTacToe_better_eckel.py ......XOX
+
+Current board:
+...    012
+...    345
+XOX    678
+
+Moving at 0 results in a loss.
+Moving at 1 results in a loss.
+Moving at 2 results in a loss.
+Moving at 3 results in a loss.
+Moving at 4 results in a tie.
+Moving at 5 results in a loss.
+
+I choose space 4.
+
+Current board:
+...    012
+.O.    345
+XOX    678
+
+You can move to any of these spaces: 0, 1, 2, 3, 5.
+Your choice? 1
+
+Current board:
+.X.    012
+.O.    345
+XOX    678
+
+Moving at 0 results in a tie.
+Moving at 2 results in a tie.
+Moving at 3 results in a tie.
+Moving at 5 results in a tie.
+
+I choose space 0.
+
+Current board:
+OX.    012
+.O.    345
+XOX    678
+
+You can move to any of these spaces: 2, 3, 5.
+Your choice? 2
+
+Current board:
+OXX    012
+.O.    345
+XOX    678
+
+Moving at 3 results in a loss.
+Moving at 5 results in a tie.
+
+I choose space 5.
+
+Current board:
+OXX    012
+.OO    345
+XOX    678
+
+You can move to any of these spaces: 3.
+Your choice? 3
+
+Current board:
+OXX    012
+XOO    345
+XOX    678
+
+We tied!

@@ -1,0 +1,89 @@
+>TicTacToe_better_eckel.py .........
+Should I be X or O? X
+
+Current board:
+...    012
+...    345
+...    678
+
+Moving at 0 results in a tie.
+Moving at 1 results in a tie.
+Moving at 2 results in a tie.
+Moving at 3 results in a tie.
+Moving at 4 results in a tie.
+Moving at 5 results in a tie.
+Moving at 6 results in a tie.
+Moving at 7 results in a tie.
+Moving at 8 results in a tie.
+
+I choose space 0.
+
+Current board:
+X..    012
+...    345
+...    678
+
+You can move to any of these spaces: 1, 2, 3, 4, 5, 6, 7, 8.
+Your choice? 1
+
+Current board:
+XO.    012
+...    345
+...    678
+
+Moving at 2 results in a tie.
+Moving at 3 results in a win.
+Moving at 4 results in a win.
+Moving at 5 results in a tie.
+Moving at 6 results in a win.
+Moving at 7 results in a tie.
+Moving at 8 results in a tie.
+
+I choose space 3.
+
+Current board:
+XO.    012
+X..    345
+...    678
+
+You can move to any of these spaces: 2, 4, 5, 6, 7, 8.
+Your choice? 6
+
+Current board:
+XO.    012
+X..    345
+O..    678
+
+Moving at 2 results in a loss.
+Moving at 4 results in a win.
+Moving at 5 results in a loss.
+Moving at 7 results in a tie.
+Moving at 8 results in a loss.
+
+I choose space 4.
+
+Current board:
+XO.    012
+XX.    345
+O..    678
+
+You can move to any of these spaces: 2, 5, 7, 8.
+Your choice? 5
+
+Current board:
+XO.    012
+XXO    345
+O..    678
+
+Moving at 2 results in a tie.
+Moving at 7 results in a tie.
+Moving at 8 results in a win.
+
+I choose space 8.
+
+Current board:
+XO.    012
+XXO    345
+O.X    678
+
+I win!

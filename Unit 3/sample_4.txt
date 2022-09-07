@@ -1,0 +1,29 @@
+>TicTacToe_better_eckel.py O.....OXX
+
+Current board:
+O..    012
+...    345
+OXX    678
+
+Moving at 1 results in a loss.
+Moving at 2 results in a loss.
+Moving at 3 results in a loss.
+Moving at 4 results in a loss.
+Moving at 5 results in a loss.
+
+I choose space 1.
+
+Current board:
+OX.    012
+...    345
+OXX    678
+
+You can move to any of these spaces: 2, 3, 4, 5.
+Your choice? 3
+
+Current board:
+OX.    012
+O..    345
+OXX    678
+
+You win!

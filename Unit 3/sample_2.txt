@@ -1,0 +1,93 @@
+>TicTacToe_better_eckel.py .........
+Should I be X or O? O
+
+Current board:
+...    012
+...    345
+...    678
+
+You can move to any of these spaces: 0, 1, 2, 3, 4, 5, 6, 7, 8.
+Your choice? 1
+
+Current board:
+.X.    012
+...    345
+...    678
+
+Moving at 0 results in a tie.
+Moving at 2 results in a tie.
+Moving at 3 results in a loss.
+Moving at 4 results in a tie.
+Moving at 5 results in a loss.
+Moving at 6 results in a loss.
+Moving at 7 results in a tie.
+Moving at 8 results in a loss.
+
+I choose space 0.
+
+Current board:
+OX.    012
+...    345
+...    678
+
+You can move to any of these spaces: 2, 3, 4, 5, 6, 7, 8.
+Your choice? 4
+
+Current board:
+OX.    012
+.X.    345
+...    678
+
+Moving at 2 results in a loss.
+Moving at 3 results in a loss.
+Moving at 5 results in a loss.
+Moving at 6 results in a loss.
+Moving at 7 results in a tie.
+Moving at 8 results in a loss.
+
+I choose space 7.
+
+Current board:
+OX.    012
+.X.    345
+.O.    678
+
+You can move to any of these spaces: 2, 3, 5, 6, 8.
+Your choice? 2
+
+Current board:
+OXX    012
+.X.    345
+.O.    678
+
+Moving at 3 results in a loss.
+Moving at 5 results in a loss.
+Moving at 6 results in a win.
+Moving at 8 results in a loss.
+
+I choose space 6.
+
+Current board:
+OXX    012
+.X.    345
+OO.    678
+
+You can move to any of these spaces: 3, 5, 8.
+Your choice? 8
+
+Current board:
+OXX    012
+.X.    345
+OOX    678
+
+Moving at 3 results in a win.
+Moving at 5 results in a tie.
+
+I choose space 3.
+
+Current board:
+OXX    012
+OX.    345
+OOX    678
+
+I win!
