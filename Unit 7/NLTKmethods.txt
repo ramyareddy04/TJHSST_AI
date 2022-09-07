@@ -1,0 +1,9 @@
+text.concordance(word) - finds sentences w/ words
+text.similar(word) - finds words w/ similar context
+text.common_contexts([words]) - shared contexts of words in list
+text.dispersion_plot([words]) - shows plot of location of words in list
+len(set(text)) / len(text) - fraction of unique words
+100 * text.count(words) / len(text) - percentage of word in all words
+FreqDist(text) - frequency distribution (.plot() to see the plot)
+bigrams([words]) - pairs of words seen often together
+text.collocations() - frequent bigrams

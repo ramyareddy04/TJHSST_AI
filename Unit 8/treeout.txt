@@ -1,0 +1,10 @@
+* Outlook
+	* Rain
+		* Wind?
+			* Weak --> Yes
+			* Strong --> No
+	* Sunny
+		* Humidity?
+			* High --> No
+			* Normal --> Yes
+	* Overcast --> Yes
